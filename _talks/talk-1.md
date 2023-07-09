@@ -1,11 +1,11 @@
 ---
-title: #"Talk 2 on Relevant Topic in Your Field"
-collection: #talks
+title: "Talk on Machine Unlearning"
+collection: talks
 type: #"Talk"
 permalink: #/talks/2014-02-01-talk-2
 venue: #"London School of Testing"
-date: #014-02-01
-location: #"London, UK"
+date: 2023-02-01
+location: "Bengaluru, Inda"
 ---
 
 <!-- [More information here](http://example2.com)

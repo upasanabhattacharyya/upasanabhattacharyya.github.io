@@ -9,4 +9,3 @@ location: "Bengaluru, India"
 ---
 
 This course is a introduction to machine learning and deep learning.
-
