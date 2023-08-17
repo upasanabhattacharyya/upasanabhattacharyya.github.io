@@ -8,11 +8,3 @@ tags:
 ---
 
 The question I want to ask is that can we diffuse our initial model to the Unlearned Models.
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
