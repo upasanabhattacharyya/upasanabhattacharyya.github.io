@@ -8,4 +8,4 @@ date: 2023-01-03
 location: "Bengaluru, India"
 ---
 
-This course is a introduction to machine learning and deep learning.
+This is an introductory course for machine learning and deep learning.
