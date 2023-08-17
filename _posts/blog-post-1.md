@@ -5,7 +5,6 @@ permalink: /posts/2023/08/blog-post-1/
 tags:
   - Machine Unlearning
   - Privacy
-  - Diffusion Model
 ---
 
 The question I want to ask is that can we diffuse our initial model to the Unlearned Models.
