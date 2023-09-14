@@ -9,11 +9,11 @@ main:
   - title: "Academic Services"
     url: /teaching/    
     
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Projects"
+    url: /projects/
         
-  # - title: "Blog Posts"
-  #   url: /posts/
+  - title: "Blog Posts"
+    url: /posts/
     
   # - title: "CV"
   #   url: /cv/
