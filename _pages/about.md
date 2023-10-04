@@ -12,18 +12,21 @@ Hi! I am Subhodip, a second year Ph.D student at **Rep**resentation **L**earning
 
 **Research Motivation:**
 
-Over the past century, the development of artificial intelligence has predominantly revolved around the pursuit of enabling machines to learn. This endeavor has been driven by a fundamental question: how can machines be trained to perform specific tasks by optimizing a loss function, typically based on curated datasets? However, as we transition towards the realm of artificial general intelligence, where machines are trained on vast and diverse datasets, the question at the forefront shifts from merely "how" to "what" these models learn. It is no longer sufficient to focus solely on the mechanics of learning; we must now inquire whether these artificial general intelligences are imbued with essential human values, such as privacy, safety, and fairness—values that humans often take for granted. Do these super-intelligent models inherently respect the societal values we hold dear? Can they swiftly rectify their knowledge when confronted with erroneous information? Unfortunately, the answer to these questions is in the negative. These models not only lack certain critical human capabilities but also tend to exhibit overconfidence in their predictions, even when those predictions are incorrect. To address these concerns, we must shift our focus from "how" to "what" these models learn from the data. As machine intelligence permeates various fields, we must grapple with the pivotal question of "what" they are learning.
+Over the past century, the field of artificial intelligence (AI) has experienced remarkable progress, primarily driven by the aspiration to enable machines to learn in a manner akin to humans. This pursuit has been rooted in a fundamental question: How can machines be effectively trained to perform specific tasks? It seems like the answer is the optimization of some specific loss functions, typically relying on carefully curated datasets.
 
-**Research Interests**
-I am facinated by what each data point contributes in the learning process and I beleive that privacy ([Diffential Privacy](https://en.wikipedia.org/wiki/Differential_privacy),[Privacy Attacks](https://arxiv.org/pdf/2007.07646.pdf)) can help understand what these deep networks learn and if needed how we can unlearn ([Machine Unlearning](https://arxiv.org/abs/2209.02299)). Also I am working on Distribution Free Uncertainty Estimations for deep neural networks. Below are some of the topics that I am interested in:
- - **Privacy:** Machine Unlearning, Privacy Attacks, Differential Privacy.
- I am creating a community on Machine Unleanrning. Please join the group: [MachineUnleanrning](https://discord.gg/YU9T5pvF) if interested.
- - **Uncertainty:** Conformal Prediction and Calibration.
- - **AI for Climate Change:** Novel Applications of representation learning for climate change problems. If you are interested to know more click here to join the group: [AI4ClimateChange](https://discord.gg/erxxGtY2)
+However, as we embark on the journey toward achieving artificial general intelligence (AGI), a stage where machines are trained on extensive and diverse datasets, the central question shifts from "how" to "what" these models are learning. It is no longer sufficient to focus solely on the mechanics of the learning process. Instead, we must delve into the profound inquiry of whether these AGIs possess intrinsic human values, such as privacy, safety, and fairness.
+
+Furthermore, as we endeavor to endow AGI with human-like qualities, a critical attribute comes to the forefront—human awareness of the limitations of knowledge and the inherent uncertainty intertwined with it. Are these machines cognizant of their own uncertainty in decision-making, similar to human awareness, as our dependence on machine intelligence deepens? Can they promptly rectify their knowledge when exposed to erroneous information? Unfortunately, the answer to these inquiries is negative. These machines appear rigid and devoid of an understanding of the boundaries of their knowledge and the associated uncertainties.
+
+To address these concerns, we must shift our focus from the "how" to the "what" i.e. what these models learn from the data. As machine intelligence assumes an ever-expanding role across diverse fields, we are compelled to confront the fundamental question of "what" precisely they are assimilating and comprehending from the information to which they are exposed.
+
+**Research Interests:** I am facinated by what each data point contributes in the learning process and I beleive that privacy ([Diffential Privacy](https://en.wikipedia.org/wiki/Differential_privacy),[Privacy Attacks](https://arxiv.org/pdf/2007.07646.pdf)) can help understand what these deep networks learn from each datapoint and if needed how we can unlearn ([Machine Unlearning](https://arxiv.org/abs/2209.02299)). Also I am pretty fascinated by Distribution Free Uncertainty Estimations for deep neural networks. Below are some of the topics that I am interested in:
+- **Privacy:** Machine Unlearning, Privacy Attacks, Differential Privacy.
+I am creating a community on Machine Unleanrning as this is a fairly new area. Please join the group: [Machine-Unleanrning](https://discord.gg/YU9T5pvF) if interested.
+- **Uncertainty:** Conformal Prediction and Calibration.
+- **AI for Climate Change:** Novel Applications of representation learning for climate change problems. If you are interested to know more click here to join the group: [AI4ClimateChange](https://discord.gg/erxxGtY2)
   
-
-
-<!-- 
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
