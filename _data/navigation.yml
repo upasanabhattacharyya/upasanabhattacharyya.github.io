@@ -9,8 +9,8 @@ main:
   - title: "Academic Services"
     url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
         
   - title: "Blog Posts"
     url: /posts/
