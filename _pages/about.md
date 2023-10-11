@@ -10,6 +10,12 @@ redirect_from:
 
 Hi! I am Subhodip, a second year Ph.D student at **Rep**resentation **L**earning(**REPL**) Lab of [ECE department, IISc Bangalore](https://ece.iisc.ac.in/) advised by [Professor. Prathosh A.P.](https://sites.google.com/view/prathosh/home). My current research works fall in the domain of representation learning for vision tasks. Currently, I am looking at the deep neural networks through the lens of Privacy and Uncertainty.
 
+**Research Interests:** I am curious to know what each data point contributes in the learning process and I beleive that privacy ([Diffential Privacy](https://en.wikipedia.org/wiki/Differential_privacy),[Privacy Attacks](https://arxiv.org/pdf/2007.07646.pdf)) can help understand what these deep networks learn from each datapoint and if needed how we can unlearn ([Machine Unlearning](https://arxiv.org/abs/2209.02299)). Also I am pretty fascinated by Distribution Free Uncertainty Estimations for deep neural networks. Below are some of the topics that I am interested in:
+- **Privacy:** Machine Unlearning, Privacy Attacks, Differential Privacy.
+I am creating a community on Machine Unleanrning as this is a fairly new area. Please join the group: [Machine-Unleanrning](https://discord.gg/YU9T5pvF) if interested.
+- **Uncertainty:** Conformal Prediction and Calibration.
+- **AI for Climate Change:** Novel Applications of representation learning for climate change problems. If you are interested to know more click here to join the group: [AI4ClimateChange](https://discord.gg/erxxGtY2)
+
 **Research Motivation:**
 
 Over the past century, the field of artificial intelligence (AI) has experienced remarkable progress, primarily driven by the aspiration to enable machines to learn in a manner akin to humans. This pursuit has been rooted in a fundamental question: How can machines be effectively trained to perform specific tasks? It seems like the answer is the optimization of some specific loss functions, typically relying on carefully curated datasets.
@@ -20,11 +26,7 @@ Furthermore, as we endeavor to endow AGI with human-like qualities, a critical a
 
 To address these concerns, we must shift our focus from the "how" to the "what" i.e. what these models learn from the data. As machine intelligence assumes an ever-expanding role across diverse fields, we are compelled to confront the fundamental question of "what" precisely they are assimilating and comprehending from the information to which they are exposed.
 
-**Research Interests:** I am curious to know what each data point contributes in the learning process and I beleive that privacy ([Diffential Privacy](https://en.wikipedia.org/wiki/Differential_privacy),[Privacy Attacks](https://arxiv.org/pdf/2007.07646.pdf)) can help understand what these deep networks learn from each datapoint and if needed how we can unlearn ([Machine Unlearning](https://arxiv.org/abs/2209.02299)). Also I am pretty fascinated by Distribution Free Uncertainty Estimations for deep neural networks. Below are some of the topics that I am interested in:
-- **Privacy:** Machine Unlearning, Privacy Attacks, Differential Privacy.
-I am creating a community on Machine Unleanrning as this is a fairly new area. Please join the group: [Machine-Unleanrning](https://discord.gg/YU9T5pvF) if interested.
-- **Uncertainty:** Conformal Prediction and Calibration.
-- **AI for Climate Change:** Novel Applications of representation learning for climate change problems. If you are interested to know more click here to join the group: [AI4ClimateChange](https://discord.gg/erxxGtY2)
+
   
 <!--
 A data-driven personal website
