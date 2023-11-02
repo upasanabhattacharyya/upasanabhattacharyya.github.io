@@ -16,15 +16,8 @@ I am creating a community on Machine Unleanrning as this is a fairly new area. P
 - **Uncertainty:** Conformal Prediction and Calibration.
 - **AI for Climate Change:** Novel Applications of representation learning for climate change problems. If you are interested to know more click here to join the group: [AI4ClimateChange](https://discord.gg/erxxGtY2)
 
-**Research Motivation:**
 
-Over the past century, the field of artificial intelligence (AI) has experienced remarkable progress, primarily driven by the aspiration to enable machines to learn in a manner akin to humans. This pursuit has been rooted in a fundamental question: How can machines be effectively trained to perform specific tasks? It seems like the answer is the optimization of some specific loss functions, typically relying on carefully curated datasets.
 
-However, as we embark on the journey toward achieving artificial general intelligence (AGI), a stage where machines are trained on extensive and diverse datasets, the central question shifts from "how" to "what" these models are learning. It is no longer sufficient to focus solely on the mechanics of the learning process. Instead, we must delve into the profound inquiry of whether these AGIs possess intrinsic human values, such as privacy, safety, and fairness.
-
-Furthermore, as we endeavor to endow AGI with human-like qualities, a critical attribute comes to the forefront—human awareness of the limitations of knowledge and the inherent uncertainty intertwined with it. Are these machines cognizant of their own uncertainty in decision-making, similar to human awareness, as our dependence on machine intelligence deepens? Can they promptly rectify their knowledge when exposed to erroneous information? Unfortunately, the answer to these inquiries is negative. These machines appear rigid and devoid of an understanding of the boundaries of their knowledge and the associated uncertainties.
-
-To address these concerns, we must shift our focus from the "how" to the "what" i.e. what these models learn from the data. As machine intelligence assumes an ever-expanding role across diverse fields, we are compelled to confront the fundamental question of "what" precisely they are assimilating and comprehending from the information to which they are exposed.
 
 
   
