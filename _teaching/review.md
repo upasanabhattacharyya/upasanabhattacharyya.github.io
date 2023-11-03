@@ -1,7 +1,7 @@
 ---
 title: "Review Works for Conferences and Journals"
 collection: teaching
-type: "Graduate Course"
+type:
 permalink: /teaching/2023-review
 venue:
 date: 2023-11-03
