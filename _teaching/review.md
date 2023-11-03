@@ -1,11 +1,11 @@
 ---
 title: "Review Works for Conferences and Journals"
 collection: teaching
-type:
+type: "Reviewer"
 permalink: /teaching/2023-review
-venue:
-date: 2023-11-03
-location: 
+# venue: 
+# date: 
+# location: 
 ---
 
-**Reviewer:** NeurIPS(2023), ICLR(2023)
+NeurIPS(2023), ICLR(2023)
