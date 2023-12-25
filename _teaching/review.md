@@ -8,5 +8,5 @@ date: 2023-10-31
 location: "-"
 ---
 
-- 2023: NeurIPS 
+- 2023: NeurIPS
 - 2024: ICLR, ICML
