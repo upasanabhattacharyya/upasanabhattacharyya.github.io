@@ -124,7 +124,7 @@ include:
   - files
   - _publications
   - _posts
-  - _projects/
+  - /_projects/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
