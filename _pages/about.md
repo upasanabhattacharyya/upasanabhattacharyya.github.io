@@ -17,9 +17,9 @@ redirect_from:
 🎗️Committed to lifelong learning, Upasana pursues certifications in both professional and personal areas, demonstrating her drive for continuous growth and adaptability in an ever-evolving landscape.
 
 ## Key Skills
-- 📌 Technical Skills: Data Analysis, Market Research, Financial Analysis, Credit and Risk Analysis, Stock Analysis 
-- 📌 Programming Languages: R, Python, C, C++,  
-- 📌 Analytical Tools:  SQL, Excel, Tableau, Power BI  
-- 📌 Soft skills: Problem-Solving, Analytical Thinking, Presentation (MS PowerPoint), Strategic Writing 
+- 📌 **Technical Skills:** Data Analysis, Market Research, Financial Analysis, Credit and Risk Analysis, Stock Analysis 
+- 📌 **Programming Languages:** R, Python, C, C++,  
+- 📌 **Analytical Tools:**  SQL, Excel, Tableau, Power BI  
+- 📌 **Soft skills:** Problem-Solving, Analytical Thinking, Presentation (MS PowerPoint), Strategic Writing 
 
 
