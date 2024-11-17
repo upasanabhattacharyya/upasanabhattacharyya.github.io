@@ -1,22 +1,23 @@
 # main links links
 main:
+
+  - title: "Professional Experience"
+    url: /teaching/
+
+  - title: "Projects"
+    url: /porfolio/
+
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
-    
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Professional Services"
-    url: /teaching/
-
   - title: "Blog Posts"
-    url: /posts/
+    url: /posts/g
     
   - title: "CV"
     url: /cv/
-    
+
+  # - title: "Talks"
+  #   url: /talks/    
+  
   # - title: "Guide"
   #   url: /markdown/
