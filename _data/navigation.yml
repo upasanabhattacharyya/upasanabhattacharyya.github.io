@@ -5,13 +5,13 @@ main:
     url: /teaching/
 
   - title: "Projects"
-    url: /porfolio/
+    url: /portfolio/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Blog Posts"
-    url: /posts/g
+    url: /posts/
     
   - title: "CV"
     url: /cv/
