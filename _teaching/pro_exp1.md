@@ -3,7 +3,7 @@ title: "Mymoneykarma Informatics"
 collection: teaching
 type: "Management Associate"
 permalink: /teaching/pro_exp1
-venue: "-"
+venue: "Bengaluru"
 date: 2024-10-31
 location: "Bengaluru"
 ---

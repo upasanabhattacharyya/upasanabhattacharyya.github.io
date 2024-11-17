@@ -3,7 +3,7 @@ title: "Maxsource Technologies"
 collection: teaching
 type: "Market Research Executive"
 permalink: /teaching/pro_exp2
-venue: "-"
+venue: "Indore"
 date: 2022-06-30
 location: "Indore"
 ---
